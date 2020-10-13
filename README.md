@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![JasonSubMara's github stats](https://github-readme-stats.vercel.app/api?username=JasonSubMara&show_icons=true&theme=algolia)
 
-![JasonSubMara's top-lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JasonSubMara&theme=algolia)
+![JasonSubMara's top-lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JasonSubMara)
