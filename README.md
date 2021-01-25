@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **JasonSubMara/JasonSubMara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![](https://github-readme-stats.vercel.app/api?username=JasonSubMara&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSubMara&layout=compact)
