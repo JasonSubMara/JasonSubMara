@@ -1,0 +1,19 @@
+- name: yuque to readme
+  # You may pin to the exact commit or the version.
+  # uses: RaoHai/yuque2Readme@ddf572a719fff0c07a55df02038030fb59aadfa3
+  uses: RaoHai/yuque2Readme@1.0.4
+  with:
+    # secrets.YUQUE_TOKEN. 语雀的 token，去 https://www.yuque.com/settings/tokens 里找。需要读取你的知识库和文档。
+    yuque-token: # ${{secrets.YUQUE_TOKEN}}
+    # 填你自己的空间标识。比如语雀的博客是： `yuque/blog`
+    yuque-namespace: # default is yuque/blog
+    # 是否只列出已发布的文章
+    yuque-doc-public-only: # optional, default is true
+    # 最多列出几条
+    yuque-doc-limit: # optional, default is 5
+    # 按什么字段排序
+    yuque-doc-order-by: # optional, default is updated_at
+    # Template for generate output
+    yuque-template-file: # optional, default is README.template.md
+    # Which file to write
+    yuque-output-file: # optional, default is README.md
