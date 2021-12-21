@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about CSS
 - 📫 How to reach me: jie.yr127@gmail.com
-- 🎉 Welcome to my site: submara.com
+- 🎉 Welcome to my site: https://submara.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
